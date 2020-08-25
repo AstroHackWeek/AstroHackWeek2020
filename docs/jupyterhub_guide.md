@@ -9,7 +9,7 @@ The DiRAC Institute at the University of Washington has set up infrastructure fo
 The JupyterHub authenticates users using GitHub, so to gain access, you must have a GitHub account. Second, only users who are a part of the [AstroHackWeek2020](https://github.com/AstroHackWeek2020) GitHub organization will be allowed on the system. To gain access to the system, follow these steps:
 
 1. Create a GitHub account: [https://github.com/join?source=login](https://github.com/join?source=login)
-2. Join the AstroHackWeek2020 GitHub organization / share your GitHub username with an administrator and wait to receive an invitiation to the organization
+2. Let the organizers (e.g. [Brigitta Sipőcz](mailto:brigitta.sipocz+AHW2020@gmail.com) know your GitHub username, they need to add you to the AstroHackWeek2020 GitHub organization.
 3. Log-in at: [https://hack.dirac.institute/hub/login](https://hack.dirac.institute/hub/login)
 
 ## Launching a Server
