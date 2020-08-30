@@ -3,12 +3,7 @@
 This repository contains materials and information about
 Astro Hack Week 2020.
 
-### Tutorials
-
-* Monday: TBF
-* Tuesday: TBD
-* Wednesday: TBD
-* Thursday: TBD
+### See the [Detailed Schedule](Detailed Schedule) for schedule details 
 
 ### Binder
 
