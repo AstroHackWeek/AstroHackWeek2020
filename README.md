@@ -3,7 +3,7 @@
 This repository contains materials and information about
 Astro Hack Week 2020.
 
-### See the [Detailed Schedule](Detailed Schedule) for schedule details 
+### See the [Detailed Schedule](https://github.com/AstroHackWeek/AstroHackWeek2020/wiki/Detailed-Schedule) for schedule details 
 
 ### Binder
 
